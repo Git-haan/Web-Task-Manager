@@ -1,6 +1,6 @@
 # Web Task Manager
 
-The Web Task Manager is a simple yet efficient task management application built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete tasks with ease, helping them stay organized and productive.
+The Web Task Manager is a simple yet efficient task management application built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete tasks with ease, helping them stay organized and productive. This project is deployed through Glitch.
 
 
 ## Features
@@ -16,7 +16,9 @@ The Web Task Manager is a simple yet efficient task management application built
 5. **Task Filtering:** Sort tasks based on their due date to prioritize and manage your workload efficiently.
 
 
-## Installation
+## Installation/ Depoloyment
 
-To use the Web Task Manager, simply clone the repository:
+To use the Web Task Manager, simply clone the repository
+Please visit: https://grand-aspiring-push.glitch.me/ to see the deployed version
+
 
